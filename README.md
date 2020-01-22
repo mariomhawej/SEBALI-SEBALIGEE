@@ -1,5 +1,5 @@
 # SEBALI
-Automated evapotranspiration retrieval model with missing soil-related datasets
+Automated evapotranspiration retrieval model with missing soil-related datasets using Landsat 8 or Sentinel-2/MODIS satellite images.
 
 An ArcGIS toolbox ET model
 
