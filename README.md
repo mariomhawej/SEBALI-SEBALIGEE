@@ -1,4 +1,4 @@
-# SEBALI
+# SEBALI/SEBALIGEE
 Automated evapotranspiration retrieval model with missing soil-related datasets using Landsat 8 or Sentinel-2/MODIS satellite images.
 
 An ArcGIS toolbox and GEE L8 and S2 models
