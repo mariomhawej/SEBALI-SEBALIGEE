@@ -1,7 +1,7 @@
 # SEBALI
 Automated evapotranspiration retrieval model with missing soil-related datasets using Landsat 8 or Sentinel-2/MODIS satellite images.
 
-An ArcGIS toolbox and a GEE ET model
+An ArcGIS toolbox and GEE L8 and S2 models
 
 For full documentation, kindly refer to:
 1. Mhawej, Mario, Arnaud Caiserman, Ali Nasrallah, Ali Dawi, Roula Bachour, and Ghaleb Faour. "Automated evapotranspiration retrieval model with missing soil-related datasets: The proposal of SEBALI." Agricultural Water Management 229 (2020): 105938.
